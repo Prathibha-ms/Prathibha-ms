@@ -1,2 +1,2 @@
-# Prathibha-ms.github.io
+# Prathibha-ms
 My projects
